@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Manasaramaka/Manasaramaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# BIO
+### 👋 Hi, I am Manasa Ramaka.
+You can call me Manasa.
 
-Here are some ideas to get you started:
+🔍 I am a **Business Analyst** passionate about **Product Management, Market Research, and Data Analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I love transforming raw data into meaningful insights and **helping businesses make data-driven decisions**.
+
+🚀 I'm currently learning **data storytelling** and exploring **advanced analytics techniques**.
+
+🤝 I'm looking to collaborate on **market research and data analysis projects**.
+
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/ramaka-manasa/)
+
+**Pronouns:** She/Her
+
+📈 **Data-Driven Humor: A Fun Fact with a Twist**  
+Why did the business analyst bring a calculator to a party?  
+👉 Because they wanted to make sure the numbers added up!
