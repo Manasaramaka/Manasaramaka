@@ -14,5 +14,5 @@ You can call me Manasa.
 **Pronouns:** She/Her
 
 📈 **Data-Driven Humor: A Fun Fact with a Twist**  
-Why did the business analyst bring a calculator to a party?  
+🔍 Why did the business analyst bring a calculator to a party?  
 👉 Because they wanted to make sure the numbers added up!
