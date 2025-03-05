@@ -1,7 +1,4 @@
-## Hi there 👋
-
-# BIO
-### 👋 Hi, I am Manasa Ramaka.
+## 👋 Hi, I am Manasa Ramaka.
 You can call me Manasa.
 
 🔍 I am a **Business Analyst** passionate about **Product Management, Market Research, and Data Analytics**.
